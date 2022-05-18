@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #f0f2f5;
+}
+
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  margin-top: 100px;
+}
+
+.fb-main {
+  padding-top: 100px;
+  padding-right: 30px;
+}
+
+.title {
+  font-size: 55px;
+  margin-bottom: 5px;
+  color: #1473ef;
+  font-weight: bold;
+  letter-spacing: -1px;
+}
+.pfb {
+  font-size: 30px;
+}
