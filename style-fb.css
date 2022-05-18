@@ -28,3 +28,91 @@
 .pfb {
   font-size: 30px;
 }
+
+.hero {
+  background-color: white;
+  width: 380px;
+  height: 180px;
+  border-radius: 15px;
+}
+
+.login {
+  border-radius: 15px;
+  background-color: #ffff;
+  width: 380px;
+  height: 180px;
+  padding-bottom: 200px;
+  margin: 30px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 9px rgb(184, 184, 184), -1px -1px 5px rgb(184, 184, 184);
+}
+
+.emailPass {
+  margin: 10px;
+  margin-top: 20px;
+  padding: 15px;
+  width: 85%;
+  background-color: #ffff;
+  outline: none;
+  border: 1px solid rgb(184, 184, 184);
+  border-radius: 5px;
+  font-size: 15px;
+}
+.emailPass:focus {
+  border: 0.1px solid #1877f2;
+  box-shadow: 1px 1px 1px #1877f2, -1px -1px 1px #1877f2;
+}
+
+.btn-login {
+  margin: 10px;
+  padding: 15px;
+  width: 95%;
+  border-radius: 5px;
+  background-color: #1877f2;
+  color: #ffff;
+  font-size: 20px;
+  border: none;
+  font-weight: bolder;
+}
+
+.a-forg {
+  text-align: center;
+
+  height: 50px;
+
+  padding-top: 5px;
+  background-color: white;
+}
+hr {
+  margin-left: 20px;
+  margin-right: 20px;
+  background-color: rgb(184, 184, 184);
+  margin-top: 18px;
+}
+
+.a-forgotten {
+  background-color: white;
+  text-decoration: none;
+  color: #1877f2;
+  font-family: inherit;
+}
+
+.b-cre {
+  text-align: center;
+  margin-left: 90px;
+  margin-right: 90px;
+  margin-top: 18px;
+  padding: 15px;
+  background-color: #42b72a;
+  border-radius: 5px;
+}
+
+.btn-create {
+  text-decoration: none;
+  background: none;
+  color: #ffff;
+  font-weight: bolder;
+  font-size: 17px;
+  border: none;
+}
+
